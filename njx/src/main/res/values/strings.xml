@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">njx</string>
+    <string name="a">获取注解的值</string>
+    <string name="b">反射添加集合</string>
+</resources>
